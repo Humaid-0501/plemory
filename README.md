@@ -8,7 +8,7 @@ Go to iOS folder, run `npm pod install`
 
 # Running the App
 
-1. Open the file expostarterkit.xcworkspace in the iOS foler, in XCode app.
+1. Open the file expostarterkit.xcworkspace in the iOS folder, in XCode app.
 
 2. Connect your device to the macbook.
 
