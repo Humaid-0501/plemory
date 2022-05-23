@@ -1,0 +1,6 @@
+module Pods_expostarterkit {
+  umbrella header "Pods-expostarterkit-umbrella.h"
+
+  export *
+  module * { export * }
+}
